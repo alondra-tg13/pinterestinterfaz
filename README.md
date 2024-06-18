@@ -13,7 +13,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Google Fonts:** Para fuentes personalizadas 
 
 ### Vista Previa del Proyecto 
-![Demo](imagenes/vistapreviadeiniciodepinterest.png)
+![Demo](imagenes/vistapinterest.png)
 
 ### Contacto 
 Alondra Tapia: [Alobrije@gmail.com]() 🙋‍♀️
